@@ -1,0 +1,7 @@
+gradio>=4.0.0
+transformers>=4.30.0
+torch
+python-dotenv
+huggingface-hub
+gradio[oauth]
+pytest>=7.0.0
